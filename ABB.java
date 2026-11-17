@@ -1,67 +1,119 @@
 import java.util.ArrayList;
+import java.util.LinkedList;
 
+// Arvore Binaria de Busca seguindo o slide 2.4 da professora (ArvoreABB): pesquisar, inserir,
+// caminhamento central (CamCentral) e balanceamento (VO -> meio -> nova ABB).
+// Adaptacoes: a chave e o nome (String); nome repetido entra na lista do no (no slide a
+// chave repetida e recusada); o vetor ordenado guarda nos (o slide usa VetInteiro).
 public class ABB implements BuscaPorNome {
 
     private NoABB raiz;
+    private int quant;
 
-    public void inserir(Emprestimo e) {
-        raiz = inserir(raiz, e);
+    public ABB() {
+        this.raiz = null;
+        this.quant = 0;
     }
 
-    private NoABB inserir(NoABB no, Emprestimo e) {
+    public int getQuant() {
+        return this.quant;
+    }
+
+    // ---------- Pesquisa ----------
+    public NoABB pesquisar(String nome) {
+        return pesquisar(nome, this.raiz);
+    }
+
+    private NoABB pesquisar(String nome, NoABB no) {
         if (no == null) {
-            return new NoABB(e);
-        }
-        int c = e.getNomeUsuario().compareTo(no.nome);
-        if (c == 0) {
-            no.lista.add(e);                       // mesmo nome: guarda na lista, nao descarta
-        } else if (c < 0) {
-            no.esq = inserir(no.esq, e);
-        } else {
-            no.dir = inserir(no.dir, e);
-        }
-        return no;
-    }
-
-    // Balanceamento: caminhamento central gera o vetor ordenado (VO);
-    // o elemento do meio vira a raiz e o processo se repete nas duas metades.
-    public void finalizarCarga() {
-        ArrayList<NoABB> vo = new ArrayList<NoABB>();
-        centralOrdem(raiz, vo);
-        raiz = montar(vo, 0, vo.size() - 1);
-    }
-
-    private void centralOrdem(NoABB no, ArrayList<NoABB> vo) {
-        if (no != null) {
-            centralOrdem(no.esq, vo);
-            vo.add(no);
-            centralOrdem(no.dir, vo);
-        }
-    }
-
-    private NoABB montar(ArrayList<NoABB> vo, int ini, int fim) {
-        if (ini > fim) {
             return null;
         }
-        int meio = (ini + fim) / 2;
-        NoABB no = vo.get(meio);
-        no.esq = montar(vo, ini, meio - 1);
-        no.dir = montar(vo, meio + 1, fim);
+        int c = nome.compareTo(no.getNome());
+        if (c == 0) {
+            return no;
+        }
+        if (c < 0) {
+            return pesquisar(nome, no.getEsq());
+        }
+        return pesquisar(nome, no.getDir());
+    }
+
+    // ---------- Insercao ----------
+    public void inserir(Emprestimo e) {
+        NoABB existente = this.pesquisar(e.getNomeUsuario());
+        if (existente != null) {
+            existente.getLista().add(e);      // nome repetido: guarda na lista do no
+        } else {
+            this.raiz = this.inserir(e, this.raiz);
+            this.quant++;
+        }
+    }
+
+    private NoABB inserir(Emprestimo e, NoABB no) {
+        if (no == null) {
+            NoABB novo = new NoABB(e);
+            return novo;
+        }
+        int c = e.getNomeUsuario().compareTo(no.getNome());
+        if (c > 0) {
+            no.setDir(inserir(e, no.getDir()));
+        } else if (c < 0) {
+            no.setEsq(inserir(e, no.getEsq()));
+        }
         return no;
     }
 
-    public ArrayList<Emprestimo> buscar(String nome) {
-        NoABB no = raiz;
-        while (no != null) {
-            int c = nome.compareTo(no.nome);
-            if (c == 0) {
-                return no.lista;
-            } else if (c < 0) {
-                no = no.esq;
-            } else {
-                no = no.dir;
-            }
+    // ---------- Balanceamento ----------
+    // 1) caminhamento central gera o VO (vetor ordenado);
+    // 2) o elemento do meio vira a raiz, e o processo se repete nas duas metades;
+    // 3) os elementos sao inseridos em uma nova ABB (aux), que fica balanceada.
+    public ArrayList<NoABB> camCentral() {
+        ArrayList<NoABB> vetor = new ArrayList<NoABB>();
+        return (camCentral(this.raiz, vetor));
+    }
+
+    private ArrayList<NoABB> camCentral(NoABB no, ArrayList<NoABB> vetor) {
+        if (no != null) {
+            vetor = this.camCentral(no.getEsq(), vetor);
+            vetor.add(no);
+            vetor = this.camCentral(no.getDir(), vetor);
         }
-        return null;
+        return vetor;
+    }
+
+    public ABB balancear() {
+        ABB aux = new ABB();
+        ArrayList<NoABB> vetor = camCentral();
+        balancear(vetor, aux, 0, vetor.size() - 1);
+        return aux;
+    }
+
+    private void balancear(ArrayList<NoABB> vetor, ABB aux, int inicio, int fim) {
+        int meio;
+        if (inicio <= fim) {
+            meio = (inicio + fim) / 2;
+            for (Emprestimo e : vetor.get(meio).getLista()) {
+                aux.inserir(e);
+            }
+            // balancear a parte esquerda do vetor
+            balancear(vetor, aux, inicio, meio - 1);
+            // balancear a parte direita do vetor
+            balancear(vetor, aux, meio + 1, fim);
+        }
+    }
+
+    // O Principal chama no fim da carga: troca a arvore pela versao balanceada.
+    public void finalizarCarga() {
+        ABB balanceada = this.balancear();
+        this.raiz = balanceada.raiz;
+        this.quant = balanceada.quant;
+    }
+
+    public LinkedList<Emprestimo> buscar(String nome) {
+        NoABB no = this.pesquisar(nome);
+        if (no == null) {
+            return null;
+        }
+        return no.getLista();
     }
 }

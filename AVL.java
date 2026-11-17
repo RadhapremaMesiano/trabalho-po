@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.LinkedList;
 
 // Arvore AVL seguindo o algoritmo do slide 2.5 da professora (inserir, balancearDir,
 // balancearEsq, rotacaoDireita e rotacaoEsquerda, com o FB guardado em cada no e a
@@ -48,7 +48,7 @@ public class AVL implements BuscaPorNome {
     }
 
     // A pesquisa na AVL e igual a da ABB.
-    public ArrayList<Emprestimo> buscar(String nome) {
+    public LinkedList<Emprestimo> buscar(String nome) {
         NoAVL no = this.pesquisar(nome, this.raiz);
         if (no == null) {
             return null;

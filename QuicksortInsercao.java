@@ -1,59 +1,59 @@
 import java.util.ArrayList;
 
+// Quicksort do slide 1.7 com Insercao Direta do slide 1.5: quando o trecho a ordenar tem
+// LIMITE elementos ou menos (20, como pede o enunciado), usa a Insercao Direta.
+// Adaptacao: ordena objetos Emprestimo, comparando com comparar() (nome e, no empate, codigo).
 public class QuicksortInsercao {
 
-    private static final int LIMITE = 20;   // trechos com 20 elementos ou menos usam insercao direta
+    private static final int LIMITE = 20;
 
     public static void ordenar(ArrayList<Emprestimo> v) {
-        ordenar(v, 0, v.size() - 1);
+        if (v.size() > 1) {
+            ordena(v, 0, v.size() - 1);
+        }
     }
 
-    private static void ordenar(ArrayList<Emprestimo> v, int esq, int dir) {
+    private static void ordena(ArrayList<Emprestimo> v, int esq, int dir) {
         if (dir - esq + 1 <= LIMITE) {
-            insercaoDireta(v, esq, dir);
+            insertionSort(v, esq, dir);
             return;
         }
-        int i = esq;
-        int j = dir;
-        Emprestimo pivo = v.get((esq + dir) / 2);
+        int i = esq, j = dir;
+        Emprestimo pivo, temp;
 
-        while (i <= j) {
-            while (v.get(i).comparar(pivo) < 0) {
+        pivo = v.get((i + j) / 2);
+        do {
+            while (v.get(i).comparar(pivo) < 0)
                 i++;
-            }
-            while (v.get(j).comparar(pivo) > 0) {
+            while (v.get(j).comparar(pivo) > 0)
                 j--;
-            }
             if (i <= j) {
-                trocar(v, i, j);
+                temp = v.get(i);
+                v.set(i, v.get(j));
+                v.set(j, temp);
                 i++;
                 j--;
             }
-        }
-        if (esq < j) {
-            ordenar(v, esq, j);
-        }
-        if (i < dir) {
-            ordenar(v, i, dir);
-        }
+        } while (i <= j);
+        if (esq < j)
+            ordena(v, esq, j);
+        if (dir > i)
+            ordena(v, i, dir);
     }
 
-    // Insercao direta apenas no trecho [esq, dir]
-    private static void insercaoDireta(ArrayList<Emprestimo> v, int esq, int dir) {
-        for (int i = esq + 1; i <= dir; i++) {
-            Emprestimo x = v.get(i);
-            int j = i - 1;
-            while (j >= esq && v.get(j).comparar(x) > 0) {
+    // Insercao Direta do slide, aplicada so ao trecho [esq, dir]
+    private static void insertionSort(ArrayList<Emprestimo> v, int esq, int dir) {
+        int i, j;
+        Emprestimo temp;
+
+        for (i = esq + 1; i <= dir; i++) {
+            temp = v.get(i);
+            j = i - 1;
+            while ((j >= esq) && (v.get(j).comparar(temp) > 0)) {
                 v.set(j + 1, v.get(j));
                 j--;
             }
-            v.set(j + 1, x);
+            v.set(j + 1, temp);
         }
-    }
-
-    private static void trocar(ArrayList<Emprestimo> v, int a, int b) {
-        Emprestimo aux = v.get(a);
-        v.set(a, v.get(b));
-        v.set(b, aux);
     }
 }

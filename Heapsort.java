@@ -1,50 +1,46 @@
 import java.util.ArrayList;
 
+// Heapsort seguindo o material da professora (slide 1.8 e quadro "Quick e Heap"):
+// heapSort() com os dois while e refazHeap(esq, dir), com raiz, mF (maior filho) e a flag heap.
+// Adaptacao: ordena objetos Emprestimo em um ArrayList, comparando com comparar()
+// (nome e, no empate, codigo), no lugar dos operadores < e > do vetor de inteiros.
 public class Heapsort {
 
-    // Ordena a lista por nome e, no empate, por codigo (usa Emprestimo.comparar).
     public static void ordenar(ArrayList<Emprestimo> v) {
-        int n = v.size();
+        int dir = v.size() - 1, esq = (dir - 1) / 2;
+        Emprestimo temp;
 
-        // Fase 1: transforma o vetor em um heap maximo.
-        // Comeca no ultimo pai, (n/2) - 1, e vai ate a raiz.
-        for (int i = n / 2 - 1; i >= 0; i--) {
-            peneirar(v, i, n);
+        // 1o heap: transforma o vetor em heap, do ultimo pai ate a raiz
+        while (esq >= 0) {
+            refazHeap(v, esq, v.size() - 1);
+            esq--;
         }
-
-        // Fase 2: troca a raiz (maior) com o ultimo elemento do heap,
-        // diminui o heap em 1 e reorganiza a raiz.
-        for (int fim = n - 1; fim > 0; fim--) {
-            trocar(v, 0, fim);
-            peneirar(v, 0, fim);   // o heap agora tem 'fim' elementos (posicoes 0 a fim-1)
-        }
-    }
-
-    // Faz o elemento da posicao 'pai' "descer" ate o lugar certo
-    // dentro de um heap com 'tamanho' elementos.
-    private static void peneirar(ArrayList<Emprestimo> v, int pai, int tamanho) {
-        while (true) {
-            int esq = 2 * pai + 1;
-            int dir = 2 * pai + 2;
-            int maior = pai;
-
-            if (esq < tamanho && v.get(esq).comparar(v.get(maior)) > 0) {
-                maior = esq;
-            }
-            if (dir < tamanho && v.get(dir).comparar(v.get(maior)) > 0) {
-                maior = dir;
-            }
-            if (maior == pai) {
-                return;           // ja esta no lugar certo
-            }
-            trocar(v, pai, maior);
-            pai = maior;          // continua descendo
+        while (dir > 0) {
+            // troca o 1o com o ultimo que ainda nao esta ordenado
+            temp = v.get(0);
+            v.set(0, v.get(dir));
+            v.set(dir, temp);
+            dir--;
+            refazHeap(v, 0, dir);
         }
     }
 
-    private static void trocar(ArrayList<Emprestimo> v, int a, int b) {
-        Emprestimo aux = v.get(a);
-        v.set(a, v.get(b));
-        v.set(b, aux);
+    private static void refazHeap(ArrayList<Emprestimo> v, int esq, int dir) {
+        int i = esq, mF = 2 * i + 1;            // mF = maior filho
+        Emprestimo raiz = v.get(i);
+        boolean heap = false;
+
+        while ((mF <= dir) && (!heap)) {
+            if (mF < dir)
+                if (v.get(mF).comparar(v.get(mF + 1)) < 0)
+                    mF++;
+            if (raiz.comparar(v.get(mF)) < 0) {
+                v.set(i, v.get(mF));
+                i = mF;
+                mF = 2 * i + 1;
+            } else
+                heap = true;
+        }
+        v.set(i, raiz);
     }
 }

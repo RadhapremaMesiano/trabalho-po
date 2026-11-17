@@ -2,6 +2,7 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.LinkedList;
 
 public class Gravador {
 
@@ -22,7 +23,7 @@ public class Gravador {
             String nome = nomes.get(i);
             bw.write("NOME: " + nome);
             bw.newLine();
-            ArrayList<Emprestimo> achados = estrutura.buscar(nome);
+            LinkedList<Emprestimo> achados = estrutura.buscar(nome);
             if (achados == null) {
                 bw.write("NÃO POSSUI EMPRÉSTIMOS");
                 bw.newLine();

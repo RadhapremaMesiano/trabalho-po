@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class HashEncadeado implements BuscaPorNome {
@@ -8,34 +7,40 @@ public class HashEncadeado implements BuscaPorNome {
 
     @SuppressWarnings("unchecked")
     public HashEncadeado(int quantidadeRegistros) {
-        // vetor encadeado: tamanho ideal ~ N / 0,9, usando o primo mais proximo (acima)
-        this.m = proximoPrimo((int) (quantidadeRegistros / 0.9));
+        // vetor encadeado: tamanho ideal ~ N x 1,1 (exemplo da aula: 320 elementos -> 352 -> primo 353),
+        // usando o menor primo maior ou igual a esse valor
+        this.m = proximoPrimo((int) (quantidadeRegistros * 1.1));
         this.tabela = new LinkedList[m];
         for (int i = 0; i < m; i++) {
             tabela[i] = new LinkedList<Emprestimo>();
         }
     }
 
-    // H(nome): converte o texto em numero e tira o resto da divisao por m
-    private int hash(String nome) {
-        int h = 0;
-        for (int i = 0; i < nome.length(); i++) {
-            h = (h * 31 + nome.charAt(i)) % m;
+    // Funcao de transformacao do slide 2.6 (soma do valor numerico de cada caractere, resto por m)
+    private int hashing(String chave) {
+        char carac;
+        int i, soma = 0;
+        for (i = 0; i < chave.length(); i++) {
+            carac = chave.charAt(i);
+            soma += Character.getNumericValue(carac);
         }
-        return h;
+        if (soma < 0) {
+            soma = -soma;                          // getNumericValue devolve -1 para espaco, hifen etc.
+        }
+        return soma % m;
     }
 
     public void inserir(Emprestimo e) {
-        tabela[hash(e.getNomeUsuario())].add(e);
+        tabela[hashing(e.getNomeUsuario())].add(e);
     }
 
     public void finalizarCarga() {
     }
 
     // Percorre a lista da posicao e devolve so os emprestimos com exatamente esse nome.
-    public ArrayList<Emprestimo> buscar(String nome) {
-        ArrayList<Emprestimo> resultado = new ArrayList<Emprestimo>();
-        for (Emprestimo e : tabela[hash(nome)]) {
+    public LinkedList<Emprestimo> buscar(String nome) {
+        LinkedList<Emprestimo> resultado = new LinkedList<Emprestimo>();
+        for (Emprestimo e : tabela[hashing(nome)]) {
             if (e.getNomeUsuario().equals(nome)) {
                 resultado.add(e);
             }
