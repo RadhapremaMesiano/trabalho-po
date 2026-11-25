@@ -14,6 +14,9 @@ public class Principal {
     private static final String PASTA_SAIDA = "saida/";
 
     public static void main(String[] args) throws IOException {
+        // cria a pasta de saida se ainda nao existir (o Git nao guarda pasta vazia)
+        new java.io.File(PASTA_SAIDA).mkdirs();
+
         ArrayList<String> nomes = Leitor.carregarNomes(PASTA_DADOS + "nomes.txt");
 
         // tempos[metodo][tamanho][tipo] em milissegundos (media de 5 execucoes)
