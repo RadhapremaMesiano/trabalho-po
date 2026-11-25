@@ -1,0 +1,1500 @@
+NOME: Melissa Lins
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Patricia Silva
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bruna Borges
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rafael Souza
+Empréstimo: 376 - Livro: O Caminho das Aguas - Volume 168 - Autor: Sofia Monteiro
+Data do empréstimo: 01/06/2025 - Data de devolução: 11/06/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Gustavo Santos
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Clarice Bittencourt
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Nicolas Souza
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Luana Santos
+Empréstimo: 535 - Livro: O Mapa Perdido - Volume 89 - Autor: Juliana Mendes
+Data do empréstimo: 24/01/2023 - Data de devolução: 03/02/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Isadora Brandão
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Murilo Moraes
+Empréstimo: 755 - Livro: A Ponte de Pedra - Volume 26 - Autor: Marcelo Torres
+Data do empréstimo: 22/09/2024 - Data de devolução: 02/10/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Augusto Freire
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Felipe Martins
+Empréstimo: 926 - Livro: A Ilha Distante - Volume 17 - Autor: Gabriel Vieira
+Data do empréstimo: 26/01/2026 - Data de devolução: 05/02/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Helena Lima
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Ricardo Oliveira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Thiago Lopes
+Empréstimo: 172 - Livro: A Floresta Silenciosa - Volume 249 - Autor: Camila Santos
+Data do empréstimo: 13/11/2025 - Data de devolução: 23/11/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Bernardo Reis
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Helena Rocha
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Joao Gomes
+Empréstimo: 259 - Livro: O Vale dos Sonhos - Volume 232 - Autor: Ana Carvalho
+Data do empréstimo: 16/11/2023 - Data de devolução: 26/11/2023
+
+Empréstimo: 497 - Livro: As Aventuras de Clara - Volume 118 - Autor: Helena Martins
+Data do empréstimo: 18/05/2025 - Data de devolução: 28/05/2025
+
+TOTAL: 2 empréstimos
+
+NOME: Henrique Vieira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Isabela Barreto
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Valentina Martins
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Henrique Soares
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Brenda Rios
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Leonardo Borges
+Empréstimo: 310 - Livro: A Luz da Manhã - Volume 37 - Autor: Bruno Machado
+Data do empréstimo: 15/07/2025 - Data de devolução: 25/07/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Luana Campos
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rafaela Albuquerque
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Afonso Porto
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Otavio Pereira
+Empréstimo: 500 - Livro: A Luz da Manhã - Volume 3 - Autor: Bruno Machado
+Data do empréstimo: 08/09/2026 - Data de devolução: 18/09/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Joao Ribeiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Sabrina Fernandes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Luana Monteiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Daniel Duarte
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bruna Fernandes
+Empréstimo: 881 - Livro: Noites de Inverno - Volume 97 - Autor: Pedro Nogueira
+Data do empréstimo: 08/08/2023 - Data de devolução: 18/08/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Rodrigo Ferraz
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Débora Coutinho
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Eduardo Nascimento
+Empréstimo: 14 - Livro: A Floresta Silenciosa - Volume 185 - Autor: Camila Santos
+Data do empréstimo: 21/08/2026 - Data de devolução: 31/08/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Igor Barbosa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rodrigo Andrade
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Carolina Nascimento
+Empréstimo: 286 - Livro: A Casa das Janelas Azuis - Volume 219 - Autor: Marina Duarte
+Data do empréstimo: 24/04/2024 - Data de devolução: 04/05/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Simone Coelho
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Luana Oliveira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Vanessa Medeiros
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Elisa Rodrigues
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Joao Machado
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bruna Torres
+Empréstimo: 705 - Livro: Noites de Inverno - Volume 183 - Autor: Pedro Nogueira
+Data do empréstimo: 10/01/2024 - Data de devolução: 20/01/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Joao Fernandes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Samuel Bittencourt
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Jonathan Seabra
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Joaquim Santos
+Empréstimo: 153 - Livro: Noites de Inverno - Volume 118 - Autor: Pedro Nogueira
+Data do empréstimo: 15/09/2026 - Data de devolução: 25/09/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Mariana Batista
+Empréstimo: 882 - Livro: O Vale dos Sonhos - Volume 192 - Autor: Ana Carvalho
+Data do empréstimo: 11/07/2026 - Data de devolução: 21/07/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Giovana Nunes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Thiago Gomes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Beatriz Ferreira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rodrigo Barbosa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Gabriela Azevedo
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Daiane Porto
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Isadora Cordeiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Leandro Gama
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Arthur Brandão
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Nicolas Almeida
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Daiane Seabra
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Vanessa Teixeira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Enzo Fernandes
+Empréstimo: 984 - Livro: O Mapa Perdido - Volume 125 - Autor: Juliana Mendes
+Data do empréstimo: 06/04/2026 - Data de devolução: 16/04/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Caio Farias
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Fernando Pereira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Laura Carvalho
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Daniel Dias
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Pedro Costa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Ana Nascimento
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Eduarda Rocha
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Carlos Carvalho
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Fernando Soares
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rafael Martins
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: José Gama
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Francisco Pereira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Natália Cunha
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Henrique Gouveia
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bruno Ferreira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Daniela Nogueira
+Empréstimo: 55 - Livro: O Segredo do Jardim - Volume 249 - Autor: Carlos Almeida
+Data do empréstimo: 06/02/2026 - Data de devolução: 16/02/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Fernando Vieira
+Empréstimo: 170 - Livro: Cartas para o Amanhã - Volume 216 - Autor: Beatriz Souza
+Data do empréstimo: 04/02/2025 - Data de devolução: 14/02/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Nicolas Lopes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Fernando Cardoso
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Maurício Farias
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Vinícius Cavalcante
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Juliana Barbosa
+Empréstimo: 212 - Livro: As Cores do Vento - Volume 106 - Autor: Ricardo Teixeira
+Data do empréstimo: 28/07/2026 - Data de devolução: 07/08/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Alice Almeida
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Eduarda Santos
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Henrique Magalhães
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Raul Vieira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Mateus Nascimento
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rodrigo Macedo
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Victor Castro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Matheus Nascimento
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Elisa Soares
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rodrigo Gomes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Thales Vasconcelos
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Valéria Campos
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Larissa Borges
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Leonardo Oliveira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Igor Dias
+Empréstimo: 694 - Livro: O Relogio Esquecido - Volume 43 - Autor: Daniel Ferreira
+Data do empréstimo: 15/03/2023 - Data de devolução: 25/03/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Gustavo Castro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Beatriz Nogueira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Raul Coutinho
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Larissa Souza
+Empréstimo: 412 - Livro: O Relogio Esquecido - Volume 100 - Autor: Daniel Ferreira
+Data do empréstimo: 10/11/2025 - Data de devolução: 20/11/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Margarida Franco
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Sabrina Moraes
+Empréstimo: 638 - Livro: O Diario de Helena - Volume 35 - Autor: Laura Barbosa
+Data do empréstimo: 28/09/2024 - Data de devolução: 08/10/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Beatriz Vieira
+Empréstimo: 266 - Livro: O Caminho das Aguas - Volume 121 - Autor: Sofia Monteiro
+Data do empréstimo: 23/05/2025 - Data de devolução: 02/06/2025
+
+Empréstimo: 629 - Livro: Viagem ao Norte - Volume 212 - Autor: Eduardo Lima
+Data do empréstimo: 07/03/2026 - Data de devolução: 17/03/2026
+
+TOTAL: 2 empréstimos
+
+NOME: Patrícia Beltrão
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Lucas Moreira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Gabriel Ferreira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Fernanda Gomes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Mariana Almeida
+Empréstimo: 998 - Livro: A Ponte de Pedra - Volume 37 - Autor: Marcelo Torres
+Data do empréstimo: 13/01/2025 - Data de devolução: 23/01/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Fernando Rocha
+Empréstimo: 976 - Livro: Cartas para o Amanhã - Volume 42 - Autor: Beatriz Souza
+Data do empréstimo: 30/07/2024 - Data de devolução: 09/08/2024
+
+Empréstimo: 994 - Livro: Noites de Inverno - Volume 106 - Autor: Pedro Nogueira
+Data do empréstimo: 21/03/2025 - Data de devolução: 31/03/2025
+
+TOTAL: 2 empréstimos
+
+NOME: Afonso Garcia
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Leticia Marques
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rafael Monteiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Isabela Macedo
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Raul Monteiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rodrigo Rocha
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marina Xavier
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Carolina Mendes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Helena Xavier
+Empréstimo: 10 - Livro: As Cores do Vento - Volume 62 - Autor: Ricardo Teixeira
+Data do empréstimo: 06/10/2022 - Data de devolução: 16/10/2022
+
+Empréstimo: 961 - Livro: Cartas para o Amanhã - Volume 100 - Autor: Beatriz Souza
+Data do empréstimo: 24/07/2023 - Data de devolução: 03/08/2023
+
+TOTAL: 2 empréstimos
+
+NOME: Leticia Pereira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rafaela Monteiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Valéria Farias
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Amanda Teixeira
+Empréstimo: 865 - Livro: Viagem ao Norte - Volume 71 - Autor: Eduardo Lima
+Data do empréstimo: 03/07/2025 - Data de devolução: 13/07/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Rafael Almeida
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Sérgio Pacheco
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Gabriela Rodrigues
+Empréstimo: 675 - Livro: O Relogio Esquecido - Volume 9 - Autor: Daniel Ferreira
+Data do empréstimo: 19/03/2025 - Data de devolução: 29/03/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Daniela Costa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Raul Fernandes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Lucas Ramos
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Manuela Campos
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rodrigo Freitas
+Empréstimo: 757 - Livro: A Floresta Silenciosa - Volume 22 - Autor: Camila Santos
+Data do empréstimo: 26/08/2024 - Data de devolução: 05/09/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Valentina Sampaio
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Sílvia Freire
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Juliana Xavier
+Empréstimo: 422 - Livro: Noites de Inverno - Volume 75 - Autor: Pedro Nogueira
+Data do empréstimo: 22/10/2024 - Data de devolução: 01/11/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Vitor Machado
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Vinicius Nogueira
+Empréstimo: 389 - Livro: O Segredo do Jardim - Volume 70 - Autor: Carlos Almeida
+Data do empréstimo: 24/10/2023 - Data de devolução: 03/11/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Leticia Borges
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marcelo Oliveira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Leonardo Vieira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Lucas Nascimento
+Empréstimo: 719 - Livro: O Vale dos Sonhos - Volume 141 - Autor: Ana Carvalho
+Data do empréstimo: 09/08/2024 - Data de devolução: 19/08/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Lorena Abreu
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Joaquim Monteiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Samuel Oliveira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Natalia Ferreira
+Empréstimo: 249 - Livro: Viagem ao Norte - Volume 31 - Autor: Eduardo Lima
+Data do empréstimo: 22/03/2024 - Data de devolução: 01/04/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Victor Ferreira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Valentina Moreira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Arthur Souza
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Raul Moraes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marcelo Alves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Enzo Medeiros
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bruna Gomes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Amanda Costa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Vinicius Teixeira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Fernanda Fernandes
+Empréstimo: 605 - Livro: A Casa das Janelas Azuis - Volume 205 - Autor: Marina Duarte
+Data do empréstimo: 29/08/2026 - Data de devolução: 08/09/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Victor Mendes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Francisco Porto
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Ana Fernandes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Emanuel Nunes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Heitor Albuquerque
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Arthur Batista
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bruno Medeiros
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Beatriz Rocha
+Empréstimo: 611 - Livro: A Casa das Janelas Azuis - Volume 195 - Autor: Marina Duarte
+Data do empréstimo: 21/07/2024 - Data de devolução: 31/07/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Elisa Santos
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Fernanda Castro
+Empréstimo: 277 - Livro: A Cidade das Estrelas - Volume 213 - Autor: Luciana Castro
+Data do empréstimo: 25/04/2024 - Data de devolução: 05/05/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Juliana Borges
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Valéria Cunha
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Fernando Gomes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Daniela Carvalho
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bruno Ramos
+Empréstimo: 539 - Livro: Viagem ao Norte - Volume 50 - Autor: Eduardo Lima
+Data do empréstimo: 03/04/2024 - Data de devolução: 13/04/2024
+
+Empréstimo: 686 - Livro: Cartas para o Amanhã - Volume 176 - Autor: Beatriz Souza
+Data do empréstimo: 25/10/2024 - Data de devolução: 04/11/2024
+
+Empréstimo: 729 - Livro: O Caminho das Aguas - Volume 188 - Autor: Sofia Monteiro
+Data do empréstimo: 08/10/2024 - Data de devolução: 18/10/2024
+
+Empréstimo: 930 - Livro: O Castelo na Colina - Volume 143 - Autor: Clara Rodrigues
+Data do empréstimo: 10/09/2024 - Data de devolução: 20/09/2024
+
+TOTAL: 4 empréstimos
+
+NOME: Eduardo Castro
+Empréstimo: 792 - Livro: O Misterio da Montanha - Volume 182 - Autor: Fernando Ribeiro
+Data do empréstimo: 18/03/2023 - Data de devolução: 28/03/2023
+
+Empréstimo: 975 - Livro: O Relogio Esquecido - Volume 131 - Autor: Daniel Ferreira
+Data do empréstimo: 18/06/2023 - Data de devolução: 28/06/2023
+
+TOTAL: 2 empréstimos
+
+NOME: Gabriela Rios
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Mariana Vieira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Thales Abreu
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Elisa Goncalves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Luiz Freitas
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Mateus Goncalves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Juliana Reis
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Daiane Azevedo
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Luiz Medeiros
+Empréstimo: 43 - Livro: Noites de Inverno - Volume 189 - Autor: Pedro Nogueira
+Data do empréstimo: 18/05/2024 - Data de devolução: 28/05/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Joaquim Freitas
+Empréstimo: 59 - Livro: O Castelo na Colina - Volume 76 - Autor: Clara Rodrigues
+Data do empréstimo: 08/04/2023 - Data de devolução: 18/04/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Gustavo Reis
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Joao Rocha
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Renata Rodrigues
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Gustavo Paiva
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Juliana Lopes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Natalia Mendes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Laura Cardoso
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Felipe Costa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Alice Ferreira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Ricardo Xavier
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marcelo Monteiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Jonathan Moraes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bento Marinho
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Igor Batista
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Enzo Marques
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Thiago Cardoso
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Helena Monteiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Igor Lopes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Antônia Pereira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Miguel Oliveira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Helena Costa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bernardo Alves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Lucas Lima
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Luana Goncalves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Gustavo Bandeira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Eduarda Alves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Joao Borges
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Samuel Farias
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Natalia Rodrigues
+Empréstimo: 57 - Livro: As Cores do Vento - Volume 111 - Autor: Ricardo Teixeira
+Data do empréstimo: 11/12/2024 - Data de devolução: 21/12/2024
+
+Empréstimo: 427 - Livro: Cartas para o Amanhã - Volume 33 - Autor: Beatriz Souza
+Data do empréstimo: 04/11/2023 - Data de devolução: 14/11/2023
+
+TOTAL: 2 empréstimos
+
+NOME: Gabriela Alves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bruno Lopes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Sérgio Cerqueira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Laura Borges
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Henrique Rocha
+Empréstimo: 759 - Livro: O Relogio Esquecido - Volume 11 - Autor: Daniel Ferreira
+Data do empréstimo: 28/10/2025 - Data de devolução: 07/11/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Sofia Marques
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Camila Amaral
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Larissa Rodrigues
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bruno Monteiro
+Empréstimo: 667 - Livro: A Cidade das Estrelas - Volume 88 - Autor: Luciana Castro
+Data do empréstimo: 10/03/2024 - Data de devolução: 20/03/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Felipe Lopes
+Empréstimo: 898 - Livro: O Misterio da Montanha - Volume 204 - Autor: Fernando Ribeiro
+Data do empréstimo: 07/09/2026 - Data de devolução: 17/09/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Lívia Cerqueira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rafaela Assis
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Thiago Pimentel
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marcos Cardoso
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Carolina Costa
+Empréstimo: 992 - Livro: O Mapa Perdido - Volume 95 - Autor: Juliana Mendes
+Data do empréstimo: 01/01/2026 - Data de devolução: 11/01/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Sofia Nogueira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Thiago Alves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Talita Queiroz
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Brenda Rangel
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marina Freitas
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rodrigo Soares
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Fernanda Sampaio
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marcos Viana
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marcelo Moraes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Igor Costa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Pedro Medeiros
+Empréstimo: 401 - Livro: O Caminho das Aguas - Volume 216 - Autor: Sofia Monteiro
+Data do empréstimo: 04/05/2026 - Data de devolução: 14/05/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Murilo Sampaio
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Leticia Costa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Carlos Rocha
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Samuel Goncalves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Enzo Marinho
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Diego Soares
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marcelo Marques
+Empréstimo: 950 - Livro: O Segredo do Jardim - Volume 113 - Autor: Carlos Almeida
+Data do empréstimo: 09/09/2023 - Data de devolução: 19/09/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Enzo Dias
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bruna Almeida
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Luiz Ferreira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Cauã Lima
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Vitor Nascimento
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Samuel Rodrigues
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bernardo Vieira
+Empréstimo: 80 - Livro: A Floresta Silenciosa - Volume 70 - Autor: Camila Santos
+Data do empréstimo: 06/04/2024 - Data de devolução: 16/04/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Amanda Moreira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Jéssica Neves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Fernanda Cavalcante
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marcelo Soares
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Luana Pereira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Raul Martins
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Natalia Lopes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Daniel Costa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Natália Fonseca
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Ana Xavier
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Clara Martins
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Ana Barbosa
+Empréstimo: 685 - Livro: A Ponte de Pedra - Volume 19 - Autor: Marcelo Torres
+Data do empréstimo: 05/09/2025 - Data de devolução: 15/09/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Leandro Bandeira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rita Cordeiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Igor Lima
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Leandro Lacerda
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Arthur Barreto
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Vinicius Almeida
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Lívia Peixoto
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Lucas Moraes
+Empréstimo: 220 - Livro: O Segredo do Jardim - Volume 195 - Autor: Carlos Almeida
+Data do empréstimo: 18/12/2022 - Data de devolução: 28/12/2022
+
+TOTAL: 1 empréstimo
+
+NOME: Murilo Goncalves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Clara Souza
+Empréstimo: 507 - Livro: O Segredo do Jardim - Volume 200 - Autor: Carlos Almeida
+Data do empréstimo: 23/01/2025 - Data de devolução: 02/02/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Marcelo Borges
+Empréstimo: 630 - Livro: O Diario de Helena - Volume 88 - Autor: Laura Barbosa
+Data do empréstimo: 25/03/2025 - Data de devolução: 04/04/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Enzo Duarte
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rafael Rocha
+Empréstimo: 813 - Livro: As Cores do Vento - Volume 182 - Autor: Ricardo Teixeira
+Data do empréstimo: 11/02/2026 - Data de devolução: 21/02/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Renata Oliveira
+Empréstimo: 902 - Livro: O Castelo na Colina - Volume 45 - Autor: Clara Rodrigues
+Data do empréstimo: 13/03/2024 - Data de devolução: 23/03/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Isabela Ramos
+Empréstimo: 626 - Livro: O Vale dos Sonhos - Volume 116 - Autor: Ana Carvalho
+Data do empréstimo: 16/04/2025 - Data de devolução: 26/04/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Renato Esteves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Murilo Silva
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Alice Nascimento
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Emanuel Peixoto
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Alice Moreira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marcelo Teixeira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Sabrina Dias
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Ricardo Vieira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marcelo Nogueira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Valentina Vieira
+Empréstimo: 165 - Livro: O Ultimo Farol - Volume 207 - Autor: Rafael Oliveira
+Data do empréstimo: 11/03/2023 - Data de devolução: 21/03/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Renata Torres
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Manuela Cordeiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Manuela Rezende
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rodrigo Torres
+Empréstimo: 983 - Livro: O Segredo do Jardim - Volume 103 - Autor: Carlos Almeida
+Data do empréstimo: 13/08/2023 - Data de devolução: 23/08/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Leonardo Gomes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Ricardo Carvalho
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Nicolas Nogueira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marina Castro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Nicolas Figueiredo
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Eduarda Goncalves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Gabriela Falcão
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Leticia Monteiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Vinicius Cardoso
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Elisa Almeida
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Fabiana Gouveia
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Vanessa Barros
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Francisco Vasconcelos
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Camila Duarte
+Empréstimo: 751 - Livro: O Diario de Helena - Volume 204 - Autor: Laura Barbosa
+Data do empréstimo: 29/06/2026 - Data de devolução: 09/07/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Gabriela Torres
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Alice Barbosa
+Empréstimo: 189 - Livro: O Segredo do Jardim - Volume 172 - Autor: Carlos Almeida
+Data do empréstimo: 13/10/2025 - Data de devolução: 23/10/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Vanessa Costa
+Empréstimo: 90 - Livro: A Luz da Manhã - Volume 113 - Autor: Bruno Machado
+Data do empréstimo: 25/04/2023 - Data de devolução: 05/05/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Fernanda Barros
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Daniel Moreira
+Empréstimo: 508 - Livro: O Relogio Esquecido - Volume 126 - Autor: Daniel Ferreira
+Data do empréstimo: 08/09/2023 - Data de devolução: 18/09/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Helena Rodrigues
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Leonardo Santos
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Gabriel Moraes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Patricia Costa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Letícia Cerqueira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rodrigo Ferreira
+Empréstimo: 625 - Livro: O Caminho das Aguas - Volume 89 - Autor: Sofia Monteiro
+Data do empréstimo: 06/10/2022 - Data de devolução: 16/10/2022
+
+TOTAL: 1 empréstimo
+
+NOME: Lucas Mendes
+Empréstimo: 482 - Livro: As Aventuras de Clara - Volume 222 - Autor: Helena Martins
+Data do empréstimo: 20/01/2025 - Data de devolução: 30/01/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Laura Alves
+Empréstimo: 642 - Livro: A Ilha Distante - Volume 130 - Autor: Gabriel Vieira
+Data do empréstimo: 25/12/2023 - Data de devolução: 04/01/2024
+
+Empréstimo: 861 - Livro: A Ponte de Pedra - Volume 2 - Autor: Marcelo Torres
+Data do empréstimo: 13/09/2023 - Data de devolução: 23/09/2023
+
+TOTAL: 2 empréstimos
+
+NOME: Rafaela Goncalves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Diego Beltrão
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Maurício Aragão
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Gustavo Xavier
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rafael Ramos
+Empréstimo: 623 - Livro: Cartas para o Amanhã - Volume 246 - Autor: Beatriz Souza
+Data do empréstimo: 05/07/2023 - Data de devolução: 15/07/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Bruna Ferreira
+Empréstimo: 1 - Livro: O Diario de Helena - Volume 166 - Autor: Laura Barbosa
+Data do empréstimo: 06/11/2023 - Data de devolução: 16/11/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Isadora Rios
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Clara Barros
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Nicolas Monteiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Samuel Peixoto
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Pedro Barbosa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Laura Barbosa
+Empréstimo: 858 - Livro: O Vale dos Sonhos - Volume 131 - Autor: Ana Carvalho
+Data do empréstimo: 19/01/2026 - Data de devolução: 29/01/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Daniel Soares
+Empréstimo: 509 - Livro: Viagem ao Norte - Volume 103 - Autor: Eduardo Lima
+Data do empréstimo: 11/09/2026 - Data de devolução: 21/09/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Caio Castro
+Empréstimo: 98 - Livro: As Cores do Vento - Volume 21 - Autor: Ricardo Teixeira
+Data do empréstimo: 03/05/2025 - Data de devolução: 13/05/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Marcos Martins
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Larissa Pereira
+Empréstimo: 565 - Livro: O Diario de Helena - Volume 168 - Autor: Laura Barbosa
+Data do empréstimo: 14/07/2023 - Data de devolução: 24/07/2023
+
+Empréstimo: 640 - Livro: As Aventuras de Clara - Volume 243 - Autor: Helena Martins
+Data do empréstimo: 09/06/2024 - Data de devolução: 19/06/2024
+
+TOTAL: 2 empréstimos
+
+NOME: Alice Ramos
+Empréstimo: 150 - Livro: A Casa das Janelas Azuis - Volume 202 - Autor: Marina Duarte
+Data do empréstimo: 17/01/2023 - Data de devolução: 27/01/2023
+
+Empréstimo: 914 - Livro: O Caminho das Aguas - Volume 224 - Autor: Sofia Monteiro
+Data do empréstimo: 11/11/2022 - Data de devolução: 21/11/2022
+
+TOTAL: 2 empréstimos
+
+NOME: Carolina Goncalves
+Empréstimo: 610 - Livro: Noites de Inverno - Volume 220 - Autor: Pedro Nogueira
+Data do empréstimo: 29/06/2026 - Data de devolução: 09/07/2026
+
+Empréstimo: 953 - Livro: Noites de Inverno - Volume 228 - Autor: Pedro Nogueira
+Data do empréstimo: 30/04/2025 - Data de devolução: 10/05/2025
+
+TOTAL: 2 empréstimos
+
+NOME: Carlos Cardoso
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Eduardo Reis
+Empréstimo: 358 - Livro: A Cidade das Estrelas - Volume 60 - Autor: Luciana Castro
+Data do empréstimo: 21/12/2023 - Data de devolução: 31/12/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Marcos Torres
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Sofia Batista
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Igor Rodrigues
+Empréstimo: 810 - Livro: Viagem ao Norte - Volume 152 - Autor: Eduardo Lima
+Data do empréstimo: 05/02/2026 - Data de devolução: 15/02/2026
+
+Empréstimo: 857 - Livro: A Ilha Distante - Volume 192 - Autor: Gabriel Vieira
+Data do empréstimo: 22/10/2025 - Data de devolução: 01/11/2025
+
+TOTAL: 2 empréstimos
+
+NOME: Yasmin Ramos
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Leonardo Soares
+Empréstimo: 257 - Livro: A Cidade das Estrelas - Volume 199 - Autor: Luciana Castro
+Data do empréstimo: 14/08/2026 - Data de devolução: 24/08/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Mariana Lima
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Valentina Almeida
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bruna Lima
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marina Cardoso
+Empréstimo: 781 - Livro: As Aventuras de Clara - Volume 220 - Autor: Helena Martins
+Data do empréstimo: 24/04/2024 - Data de devolução: 04/05/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Eduardo Vieira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Mariana Ribeiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Murilo Torres
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Beatriz Goncalves
+Empréstimo: 726 - Livro: O Mapa Perdido - Volume 220 - Autor: Juliana Mendes
+Data do empréstimo: 06/06/2024 - Data de devolução: 16/06/2024
+
+TOTAL: 1 empréstimo
+
+NOME: Elisa Barbosa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Felipe Duarte
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Natalia Costa
+Empréstimo: 616 - Livro: A Ponte de Pedra - Volume 245 - Autor: Marcelo Torres
+Data do empréstimo: 16/03/2025 - Data de devolução: 26/03/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Victor Martins
+Empréstimo: 34 - Livro: O Vale dos Sonhos - Volume 167 - Autor: Ana Carvalho
+Data do empréstimo: 31/08/2023 - Data de devolução: 10/09/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Leonardo Barreto
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Samuel Martins
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Mateus Ferreira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Arthur Pereira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Diego Machado
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Diego Ferreira
+Empréstimo: 26 - Livro: A Luz da Manhã - Volume 11 - Autor: Bruno Machado
+Data do empréstimo: 13/02/2026 - Data de devolução: 23/02/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Enzo Gomes
+Empréstimo: 173 - Livro: O Caminho das Aguas - Volume 47 - Autor: Sofia Monteiro
+Data do empréstimo: 23/02/2026 - Data de devolução: 05/03/2026
+
+Empréstimo: 216 - Livro: As Cores do Vento - Volume 13 - Autor: Ricardo Teixeira
+Data do empréstimo: 17/10/2022 - Data de devolução: 27/10/2022
+
+TOTAL: 2 empréstimos
+
+NOME: Bernardo Oliveira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Alice Mendes
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Gustavo Teixeira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Lorena Freire
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Fernanda Carvalho
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Caio Lima
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Renata Barbosa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Karen Albuquerque
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Camila Albuquerque
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bernardo Pereira
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Emanuel Brandão
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rodrigo Rodrigues
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Mariana Dias
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Mateus Freitas
+Empréstimo: 981 - Livro: Cartas para o Amanhã - Volume 164 - Autor: Beatriz Souza
+Data do empréstimo: 26/10/2025 - Data de devolução: 05/11/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Daniel Almeida
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rafaela Neves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rafael Soares
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Marcelo Ribeiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Larissa Alves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Joaquim Borges
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Vinicius Borges
+Empréstimo: 248 - Livro: A Casa das Janelas Azuis - Volume 73 - Autor: Marina Duarte
+Data do empréstimo: 16/04/2025 - Data de devolução: 26/04/2025
+
+TOTAL: 1 empréstimo
+
+NOME: Mariana Monteiro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Miguel Costa
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Bento Macedo
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Luiz Silva
+Empréstimo: 465 - Livro: A Floresta Silenciosa - Volume 122 - Autor: Camila Santos
+Data do empréstimo: 15/06/2023 - Data de devolução: 25/06/2023
+
+TOTAL: 1 empréstimo
+
+NOME: Felipe Dias
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Nicolas Guimarães
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Enzo Mello
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Amanda Fernandes
+Empréstimo: 3 - Livro: A Casa das Janelas Azuis - Volume 205 - Autor: Marina Duarte
+Data do empréstimo: 31/01/2026 - Data de devolução: 10/02/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Gustavo Goncalves
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Camila Castro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Arthur Carvalho
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Rafaela Lima
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Gabriel Castro
+NÃO POSSUI EMPRÉSTIMOS
+
+NOME: Pedro Rodrigues
+Empréstimo: 363 - Livro: Viagem ao Norte - Volume 47 - Autor: Eduardo Lima
+Data do empréstimo: 06/04/2026 - Data de devolução: 16/04/2026
+
+TOTAL: 1 empréstimo
+
+NOME: Arthur Rocha
+NÃO POSSUI EMPRÉSTIMOS
+
