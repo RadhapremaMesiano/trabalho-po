@@ -1,36 +1,36 @@
 
 Arquivos de 1000 registros (tempo medio em ms)
 Metodo        aleatorio     ordenado    invertido
-Heapsort          28.49         4.74         5.61
-Quicksort          9.04         4.96         7.75
-QuickIns           6.24         6.73         2.88
-ABB               10.38         9.61        10.44
-AVL               10.36         4.84        10.43
-Hashing            4.79         4.28         3.54
+Heapsort          28.65         5.96         5.51
+Quicksort          8.85         4.42         4.30
+QuickIns           8.55         6.74         4.47
+ABB               17.62        23.62        12.60
+AVL                6.95         4.52         5.48
+Hashing            4.86         4.34         3.11
 
 Arquivos de 5000 registros (tempo medio em ms)
 Metodo        aleatorio     ordenado    invertido
-Heapsort          17.63         9.67         8.97
-Quicksort         14.34         8.96         8.29
-QuickIns          49.94        11.23         9.58
-ABB               25.63       125.99       117.67
-AVL                7.87         5.80         7.06
-Hashing            7.23         6.46         6.70
+Heapsort          19.02        10.63         9.80
+Quicksort         13.90         9.49         9.83
+QuickIns          29.73         9.16        16.44
+ABB               18.20       116.06        91.06
+AVL               10.29         8.17         4.96
+Hashing           11.08         7.16         4.64
 
 Arquivos de 10000 registros (tempo medio em ms)
 Metodo        aleatorio     ordenado    invertido
-Heapsort          22.11        20.48        34.89
-Quicksort         26.47        28.37        14.34
-QuickIns          76.90        29.11        21.51
-ABB               23.99       287.82       146.59
-AVL               14.88        15.82         7.63
-Hashing           11.53        31.37         6.74
+Heapsort          19.93        14.23        28.84
+Quicksort         43.25        34.89        21.02
+QuickIns          60.53        24.95        16.08
+ABB               21.89       188.46       229.01
+AVL                9.57        19.16         7.99
+Hashing            7.52        15.51         6.79
 
 Arquivos de 50000 registros (tempo medio em ms)
 Metodo        aleatorio     ordenado    invertido
-Heapsort          98.96        80.07        85.71
-Quicksort         95.49        71.13        76.46
-QuickIns         102.56        84.50       117.34
-ABB               69.96      1439.71      1300.93
-AVL               50.55        40.75        53.99
-Hashing           83.07        41.83        39.77
+Heapsort         109.95        83.49       117.77
+Quicksort        103.37        89.76        73.58
+QuickIns         114.27        89.34       109.61
+ABB               56.63      1536.70      1346.20
+AVL               79.55        47.13        40.24
+Hashing           47.66        35.87        35.78
