@@ -6,7 +6,6 @@ import java.util.LinkedList;
 
 public class Gravador {
 
-    // Grava a lista ordenada, uma linha por emprestimo. O FileWriter sobrescreve o arquivo.
     public static void gravarLista(ArrayList<Emprestimo> lista, String caminho) throws IOException {
         BufferedWriter bw = new BufferedWriter(new FileWriter(caminho));
         for (int i = 0; i < lista.size(); i++) {
@@ -16,7 +15,6 @@ public class Gravador {
         bw.close();
     }
 
-    // Grava o resultado da pesquisa dos nomes, no formato pedido no enunciado.
     public static void gravarPesquisa(BuscaPorNome estrutura, ArrayList<String> nomes, String caminho) throws IOException {
         BufferedWriter bw = new BufferedWriter(new FileWriter(caminho));
         for (int i = 0; i < nomes.size(); i++) {

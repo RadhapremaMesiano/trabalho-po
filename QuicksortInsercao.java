@@ -1,8 +1,5 @@
 import java.util.ArrayList;
 
-// Quicksort do slide 1.7 com Insercao Direta do slide 1.5: quando o trecho a ordenar tem
-// LIMITE elementos ou menos (20, como pede o enunciado), usa a Insercao Direta.
-// Adaptacao: ordena objetos Emprestimo, comparando com comparar() (nome e, no empate, codigo).
 public class QuicksortInsercao {
 
     private static final int LIMITE = 20;
@@ -41,7 +38,6 @@ public class QuicksortInsercao {
             ordena(v, i, dir);
     }
 
-    // Insercao Direta do slide, aplicada so ao trecho [esq, dir]
     private static void insertionSort(ArrayList<Emprestimo> v, int esq, int dir) {
         int i, j;
         Emprestimo temp;

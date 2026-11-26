@@ -5,7 +5,6 @@ import java.util.ArrayList;
 
 public class Leitor {
 
-    // Le um arquivo de emprestimos e devolve um ArrayList.
     public static ArrayList<Emprestimo> carregar(String caminho) throws IOException {
         ArrayList<Emprestimo> lista = new ArrayList<Emprestimo>();
         BufferedReader br = new BufferedReader(new FileReader(caminho));
@@ -21,7 +20,6 @@ public class Leitor {
         return lista;
     }
 
-    // Le o arquivo com os 400 nomes que serao pesquisados (um por linha).
     public static ArrayList<String> carregarNomes(String caminho) throws IOException {
         ArrayList<String> nomes = new ArrayList<String>();
         BufferedReader br = new BufferedReader(new FileReader(caminho));

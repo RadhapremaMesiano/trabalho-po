@@ -23,8 +23,7 @@ public class Emprestimo {
     public String getDataEmprestimo() { return dataEmprestimo; }
     public String getDataDevolucao() { return dataDevolucao; }
 
-    // Ordena pelo nome; se o nome for igual, desempata pelo codigo.
-    // Retorna negativo se este < outro, zero se iguais, positivo se este > outro.
+
     public int comparar(Emprestimo outro) {
         int c = this.nomeUsuario.compareTo(outro.nomeUsuario);
         if (c != 0) {
@@ -33,7 +32,6 @@ public class Emprestimo {
         return Integer.compare(this.codigo, outro.codigo);
     }
 
-    // Linha no formato original do arquivo
     public String paraLinha() {
         return codigo + ";" + nomeUsuario + ";" + tituloLivro + ";" + autor
                 + ";" + dataEmprestimo + ";" + dataDevolucao;

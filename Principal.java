@@ -14,12 +14,10 @@ public class Principal {
     private static final String PASTA_SAIDA = "saida/";
 
     public static void main(String[] args) throws IOException {
-        // cria a pasta de saida se ainda nao existir (o Git nao guarda pasta vazia)
         new java.io.File(PASTA_SAIDA).mkdirs();
 
         ArrayList<String> nomes = Leitor.carregarNomes(PASTA_DADOS + "nomes.txt");
 
-        // tempos[metodo][tamanho][tipo] em milissegundos (media de 5 execucoes)
         double[][][] tempos = new double[METODOS.length][TAMANHOS.length][TIPOS.length];
 
         for (int t = 0; t < TAMANHOS.length; t++) {
@@ -39,8 +37,6 @@ public class Principal {
         }
         imprimirTabela(tempos);
     }
-
-    // Procedimento do enunciado: 5 vezes { carregar, ordenar, gravar }; tempo = total / 5.
     private static double medirOrdenacao(int metodo, String entrada, String saida) throws IOException {
         long inicio = System.nanoTime();
         for (int vez = 0; vez < EXECUCOES; vez++) {
@@ -58,7 +54,6 @@ public class Principal {
         return (fim - inicio) / (double) EXECUCOES / 1000000.0;
     }
 
-    // Procedimento do enunciado: 5 vezes { carregar na estrutura, pesquisar os 400 nomes, gravar }.
     private static double medirPesquisa(int metodo, String entrada, ArrayList<String> nomes, String saida) throws IOException {
         long inicio = System.nanoTime();
         for (int vez = 0; vez < EXECUCOES; vez++) {
@@ -74,14 +69,13 @@ public class Principal {
             for (int i = 0; i < lista.size(); i++) {
                 estrutura.inserir(lista.get(i));
             }
-            estrutura.finalizarCarga();                 // ABB balanceia aqui
+            estrutura.finalizarCarga();                
             Gravador.gravarPesquisa(estrutura, nomes, saida);
         }
         long fim = System.nanoTime();
         return (fim - inicio) / (double) EXECUCOES / 1000000.0;
     }
 
-    // Mostra na tela e grava saida/tempos.txt (tempo medio em ms).
     private static void imprimirTabela(double[][][] tempos) throws IOException {
         BufferedWriter bw = new BufferedWriter(new FileWriter(PASTA_SAIDA + "tempos.txt"));
         for (int t = 0; t < TAMANHOS.length; t++) {

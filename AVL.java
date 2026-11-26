@@ -1,9 +1,5 @@
 import java.util.LinkedList;
 
-// Arvore AVL seguindo o algoritmo do slide 2.5 da professora (inserir, balancearDir,
-// balancearEsq, rotacaoDireita e rotacaoEsquerda, com o FB guardado em cada no e a
-// flag "balancear"). FB = altura(direita) - altura(esquerda).
-// Adaptacoes: a chave e o nome (String) e nome repetido entra na lista do no.
 public class AVL implements BuscaPorNome {
 
     private NoAVL raiz;
@@ -25,18 +21,15 @@ public class AVL implements BuscaPorNome {
             return novo;
         }
         int c = e.getNomeUsuario().compareTo(no.getNome());
-        if (c == 0) {
-            // mesmo nome: so entra na lista, a arvore nao cresce e nada precisa balancear
+        if (c == 0) {            
             no.getLista().add(e);
             this.balancear = false;
             return no;
-        } else if (c < 0) {
-            // Insere a esquerda e verifica se precisa balancear
+        } else if (c < 0) {          
             no.setEsq(this.inserir(e, no.getEsq()));
             no = this.balancearDir(no);
             return no;
         } else {
-            // Insere a direita e verifica se precisa balancear
             no.setDir(this.inserir(e, no.getDir()));
             no = this.balancearEsq(no);
             return no;
@@ -44,10 +37,8 @@ public class AVL implements BuscaPorNome {
     }
 
     public void finalizarCarga() {
-        // a AVL ja esta balanceada a cada insercao
     }
 
-    // A pesquisa na AVL e igual a da ABB.
     public LinkedList<Emprestimo> buscar(String nome) {
         NoAVL no = this.pesquisar(nome, this.raiz);
         if (no == null) {
@@ -70,7 +61,6 @@ public class AVL implements BuscaPorNome {
         return this.pesquisar(nome, no.getDir());
     }
 
-    // Verifica se precisa balancear depois de inserir na sub-arvore esquerda
     private NoAVL balancearDir(NoAVL no) {
         if (this.balancear)
             switch (no.getFatorBalanceamento()) {
@@ -87,7 +77,6 @@ public class AVL implements BuscaPorNome {
         return no;
     }
 
-    // Verifica se precisa balancear depois de inserir na sub-arvore direita
     private NoAVL balancearEsq(NoAVL no) {
         if (this.balancear)
             switch (no.getFatorBalanceamento()) {
@@ -104,7 +93,6 @@ public class AVL implements BuscaPorNome {
         return no;
     }
 
-    // Rotacao a direita (RD) e rotacao dupla a direita (RDD)
     private NoAVL rotacaoDireita(NoAVL no) {
         NoAVL temp1, temp2;
         temp1 = no.getEsq();
@@ -119,12 +107,11 @@ public class AVL implements BuscaPorNome {
             temp2.setEsq(temp1);
             no.setEsq(temp2.getDir());
             temp2.setDir(no);
-            // Recalcula o FB do no a direita na nova arvore
+            
             if (temp2.getFatorBalanceamento() == -1)
                 no.setFatorBalanceamento(1);
             else
                 no.setFatorBalanceamento(0);
-            // Recalcula o FB do no a esquerda na nova arvore
             if (temp2.getFatorBalanceamento() == 1)
                 temp1.setFatorBalanceamento(-1);
             else

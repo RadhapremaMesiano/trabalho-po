@@ -3,12 +3,10 @@ import java.util.LinkedList;
 public class HashEncadeado implements BuscaPorNome {
 
     private LinkedList<Emprestimo>[] tabela;
-    private int m;                                // tamanho do vetor (numero primo)
+    private int m;                             
 
     @SuppressWarnings("unchecked")
     public HashEncadeado(int quantidadeRegistros) {
-        // vetor encadeado: tamanho ideal ~ N x 1,1 (exemplo da aula: 320 elementos -> 352 -> primo 353),
-        // usando o menor primo maior ou igual a esse valor
         this.m = proximoPrimo((int) (quantidadeRegistros * 1.1));
         this.tabela = new LinkedList[m];
         for (int i = 0; i < m; i++) {
@@ -16,7 +14,6 @@ public class HashEncadeado implements BuscaPorNome {
         }
     }
 
-    // Funcao de transformacao do slide 2.6 (soma do valor numerico de cada caractere, resto por m)
     private int hashing(String chave) {
         char carac;
         int i, soma = 0;
@@ -25,7 +22,7 @@ public class HashEncadeado implements BuscaPorNome {
             soma += Character.getNumericValue(carac);
         }
         if (soma < 0) {
-            soma = -soma;                          // getNumericValue devolve -1 para espaco, hifen etc.
+            soma = -soma;                         
         }
         return soma % m;
     }
@@ -37,7 +34,6 @@ public class HashEncadeado implements BuscaPorNome {
     public void finalizarCarga() {
     }
 
-    // Percorre a lista da posicao e devolve so os emprestimos com exatamente esse nome.
     public LinkedList<Emprestimo> buscar(String nome) {
         LinkedList<Emprestimo> resultado = new LinkedList<Emprestimo>();
         for (Emprestimo e : tabela[hashing(nome)]) {

@@ -1,7 +1,6 @@
 import java.util.LinkedList;
 
-// No da AVL. Igual ao NoAvl do slide da professora (num, esq, dir, fatorBalanceamento),
-// exceto: a chave e o nome do usuario (String) e o no guarda a lista de emprestimos desse nome.
+
 public class NoAVL {
     private String nome;
     private LinkedList<Emprestimo> lista;

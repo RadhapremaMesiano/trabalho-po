@@ -1,7 +1,5 @@
 import java.util.LinkedList;
 
-// No da ABB. Igual ao NoABB do slide da professora (num, esq, dir), exceto: a chave e o
-// nome do usuario (String) e o no guarda a lista de emprestimos desse nome.
 public class NoABB {
     private String nome;
     private LinkedList<Emprestimo> lista;

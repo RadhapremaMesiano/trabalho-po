@@ -1,10 +1,6 @@
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-// Arvore Binaria de Busca seguindo o slide 2.4 da professora (ArvoreABB): pesquisar, inserir,
-// caminhamento central (CamCentral) e balanceamento (VO -> meio -> nova ABB).
-// Adaptacoes: a chave e o nome (String); nome repetido entra na lista do no (no slide a
-// chave repetida e recusada); o vetor ordenado guarda nos (o slide usa VetInteiro).
 public class ABB implements BuscaPorNome {
 
     private NoABB raiz;
@@ -19,7 +15,6 @@ public class ABB implements BuscaPorNome {
         return this.quant;
     }
 
-    // ---------- Pesquisa ----------
     public NoABB pesquisar(String nome) {
         return pesquisar(nome, this.raiz);
     }
@@ -38,7 +33,6 @@ public class ABB implements BuscaPorNome {
         return pesquisar(nome, no.getDir());
     }
 
-    // ---------- Insercao ----------
     public void inserir(Emprestimo e) {
         NoABB existente = this.pesquisar(e.getNomeUsuario());
         if (existente != null) {
@@ -63,10 +57,6 @@ public class ABB implements BuscaPorNome {
         return no;
     }
 
-    // ---------- Balanceamento ----------
-    // 1) caminhamento central gera o VO (vetor ordenado);
-    // 2) o elemento do meio vira a raiz, e o processo se repete nas duas metades;
-    // 3) os elementos sao inseridos em uma nova ABB (aux), que fica balanceada.
     public ArrayList<NoABB> camCentral() {
         ArrayList<NoABB> vetor = new ArrayList<NoABB>();
         return (camCentral(this.raiz, vetor));
@@ -102,7 +92,6 @@ public class ABB implements BuscaPorNome {
         }
     }
 
-    // O Principal chama no fim da carga: troca a arvore pela versao balanceada.
     public void finalizarCarga() {
         ABB balanceada = this.balancear();
         this.raiz = balanceada.raiz;
